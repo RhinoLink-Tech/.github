@@ -1,4 +1,5 @@
-[English](#about-us) | [简体中文](#简体中文)
+<details name="language" open>
+<summary>English</summary>
 
 # RhinoLink Tech
 
@@ -68,9 +69,11 @@ The AI Workbench combines task intake, execution controls, and result tracking. 
 **RhinoLink Tech** is building an AI-native semantic governance platform for organization-wide workflows. Through **Semovix | 赛慕维**, we connect semantic understanding, knowledge networks, governance tasks, and intelligent execution. Through **Xino | 犀诺**, our AI assistant and official character, we make these capabilities easier to access in everyday enterprise work.
 
 Our goal is to organize fragmented data, rules, knowledge, and workflows so AI can understand business context, advance tasks, and deliver verifiable outcomes—from semantics to action.
----
 
-## 简体中文
+</details>
+
+<details name="language">
+<summary>简体中文</summary>
 
 ## 一、公司介绍
 
@@ -196,4 +199,6 @@ Xino 所代表的，不是传统机器人形象，而是一个 **懂业务、懂
 
 **连犀智语** 致力于打造面向组织级场景的 **AI 原生语义治理平台**。
 我们通过 **Semovix｜赛慕维** 品牌，构建从语义理解、知识网络、治理任务到智能执行的完整产品体系；通过 **Xino｜犀诺** 这一智能助手与官方 IP，让复杂的治理与执行能力以更自然、更友好的方式进入企业工作流。
-我们的目标，是帮助企业把分散的数据、规则、知识和流程真正组织起来，让 AI 不只会回答问题，更能理解业务、推进任务、形成结果，把“语义”真正变成“行动”。 
+我们的目标，是帮助企业把分散的数据、规则、知识和流程真正组织起来，让 AI 不只会回答问题，更能理解业务、推进任务、形成结果，把“语义”真正变成“行动”。
+
+</details>
