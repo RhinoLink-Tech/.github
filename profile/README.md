@@ -1,3 +1,77 @@
+[English](#about-us) | [简体中文](#简体中文)
+
+# RhinoLink Tech
+
+## About Us
+
+**RhinoLink Tech** is an AI product company focused on data semantics governance, knowledge networks, and intelligent execution. We connect fragmented enterprise data, business semantics, rules, knowledge assets, and workflows so AI can understand business context, organize knowledge, and move work forward.
+
+Our platform brings together an AI Workbench as the unified entry point, a governance Task Engine as the execution hub, and a Domain Knowledge Network as the structure for organizing domain knowledge. It connects data discovery, analytics, governance, and execution in a workflow that can be tracked, delivered, and reviewed.
+
+## Brand
+
+Our product brand is **Semovix | 赛慕维**.
+
+Semovix is a **Data Semantics Governance and Intelligent Workbench**. Its broader positioning is an organizational platform for data semantics governance, knowledge networks, and task execution.
+
+**From Semantics to Action**  
+**让语义走向行动**
+
+Semovix is the primary brand for the platform. It brings semantic understanding, knowledge networks, task orchestration, and execution into one system that can evolve over time. It helps enterprises organize the business meaning behind their data and turn it into action.
+
+## AI Assistant and IP
+
+Our official AI assistant and character is **Xino | 犀诺**.
+
+- **Semovix | 赛慕维** is the platform brand.
+- **Xino | 犀诺** is the AI assistant and character brand.
+
+Xino is the human-facing entry point to the platform, appearing in the Workbench, chat, onboarding, and other product and communications experiences. Xino represents an intelligent work partner that understands business context, works across teams, and helps move tasks forward.
+
+## Product Value
+
+### Bring consistent meaning to enterprise data
+
+Enterprises often have many tables, fields, metrics, rules, and systems, but lack a shared business vocabulary. This leads to conflicting metric definitions, unclear boundaries, and data that is difficult to interpret.
+
+Our explainable semantic understanding engine uses evidence, confidence levels, and human review to identify meaning and mappings. It makes uncertainty explicit, including UNKNOWN and IGNORE cases, to reduce incorrect mappings and downstream data quality issues.
+
+### Turn knowledge into operational scenarios
+
+Organizations have accumulated knowledge, rules, and experience, but often lack a reusable way to organize them into working scenarios.
+
+The **Domain Knowledge Network (DKN)** connects business objects, metrics, definitions, rules, intents, service entry points, and workflows. It supports data discovery, analytics, governance, decision-making, and execution as connected parts of a scenario.
+
+### Help users resolve the issues systems find
+
+Many platforms can detect issues but leave users to navigate alerts, rules, and separate pages to resolve them.
+
+The **Task Engine** turns governance findings into tasks that users can understand, act on, and track. It supports a workflow from issue discovery and recommended actions through resolution.
+
+### Move from answers to verified outcomes
+
+Enterprises need assistants that can keep work moving, verify results, and support review and replay.
+
+The AI Workbench combines task intake, execution controls, and result tracking. Its architecture separates model-driven understanding from the execution runtime, supporting task orchestration, verification, and recovery across a workflow.
+
+## Core Capabilities
+
+- **AI Workbench:** A unified task entry point for governance, analytics, and development workflows.
+- **Explainable semantic governance:** Evidence-based semantic identification, mapping repair, object governance, and release review.
+- **Domain Knowledge Network:** An operational network for business objects, metrics, definitions, rules, intents, and services.
+- **Governance Task Engine:** Converts distributed findings into trackable tasks and supports their resolution.
+- **Digital employees and assistants:** Makes complex capabilities accessible through assistants such as Xino.
+- **Permissions, audit, and runtime explanations:** Controls access, scope, actions, and auditability during execution.
+
+## Short Introduction
+
+**RhinoLink Tech** is building an AI-native semantic governance platform for organization-wide workflows. Through **Semovix | 赛慕维**, we connect semantic understanding, knowledge networks, governance tasks, and intelligent execution. Through **Xino | 犀诺**, our AI assistant and official character, we make these capabilities easier to access in everyday enterprise work.
+
+Our goal is to organize fragmented data, rules, knowledge, and workflows so AI can understand business context, advance tasks, and deliver verifiable outcomes—from semantics to action.
+---
+
+## 简体中文
+
 ## 一、公司介绍
 
 **连犀智语** 是一家聚焦 **数据语义治理、知识网络与智能执行** 的 AI 产品公司。
